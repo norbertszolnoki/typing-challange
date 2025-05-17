@@ -38,6 +38,7 @@ Before you begin, ensure you have the following installed:
      ```
      REACT_APP_GRIDLY_VIEW_ID=your_view_id_here
      REACT_APP_GRIDLY_API_KEY=your_api_key_here
+     REACT_APP_GRIDLY_SENTENCES_VIEW_ID=your_sentences_view_id_here
      ```
 
 2. **Get Gridly Credentials**
